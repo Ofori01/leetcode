@@ -42,15 +42,24 @@
 
 
 //This solution uses a pointer to track current unique number and iterates through the array
-function removeDuplicates(nums) {
+// function removeDuplicates(nums) {
 
-   let k= 0
-   for(let i =0; i <nums.length;i++){
-    if(nums[i]!==nums[k]){
-        k++
-        nums[k] = nums[i];
-    }
-   }
-   return k
-};
-removeDuplicates([1,1,1,2,2,2,3,3,4,5,5,6,6,6])
+//    let k= 0
+//    for(let i =0; i <nums.length;i++){
+//     if(nums[i]!==nums[k]){
+//         k++
+//         nums[k] = nums[i];
+//     }
+//    }
+//    return k
+// };
+
+
+//Using the set operator to get unique values of nums
+function removeDuplicates(nums) {
+    const temp = new Set(nums)
+    nums.splice(0,0, ...temp)
+    return temp.size
+    
+ };
+ 
