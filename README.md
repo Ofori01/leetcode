@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ofori01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ofori01/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Ofori01/leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ofori01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Matrix
 |  |
@@ -44,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ofori01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
