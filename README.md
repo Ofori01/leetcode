@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ofori01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Ofori01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ofori01/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -89,5 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
