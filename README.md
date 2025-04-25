@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ofori01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ofori01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Ofori01/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Ofori01/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ofori01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ofori01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ofori01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ofori01/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Ofori01/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ofori01/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ofori01/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
