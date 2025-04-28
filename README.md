@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ofori01/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -121,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ofori01/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0838-design-linked-list](https://github.com/Ofori01/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
