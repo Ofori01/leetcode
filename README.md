@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ofori01/leetcode/tree/master/0002-add-two-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/Ofori01/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## String
@@ -122,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ofori01/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ofori01/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ofori01/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0838-design-linked-list](https://github.com/Ofori01/leetcode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ofori01/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ofori01/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
