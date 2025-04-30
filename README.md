@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ofori01/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Ofori01/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Ofori01/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ofori01/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ofori01/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ofori01/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ofori01/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Ofori01/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Ofori01/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ofori01/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Ofori01/leetcode/tree/master/0206-reverse-linked-list) |
