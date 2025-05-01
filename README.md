@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ofori01/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Ofori01/leetcode/tree/master/1651-shuffle-string) |
 | [2465-shifting-letters-ii](https://github.com/Ofori01/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Ofori01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Ofori01/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Greedy
 |  |
@@ -154,4 +155,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ofori01/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Ofori01/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Ofori01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
