@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Ofori01/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ofori01/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Ofori01/leetcode/tree/master/1651-shuffle-string) |
+| [1720-crawler-log-folder](https://github.com/Ofori01/leetcode/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/Ofori01/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Ofori01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Ofori01/leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Ofori01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Ofori01/leetcode/tree/master/1651-shuffle-string) |
+| [1720-crawler-log-folder](https://github.com/Ofori01/leetcode/tree/master/1720-crawler-log-folder) |
 | [1791-richest-customer-wealth](https://github.com/Ofori01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ofori01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ofori01/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ofori01/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ofori01/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1720-crawler-log-folder](https://github.com/Ofori01/leetcode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Ofori01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
