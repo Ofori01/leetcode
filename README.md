@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ofori01/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
+| [0908-middle-of-the-linked-list](https://github.com/Ofori01/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ofori01/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Ofori01/leetcode/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Ofori01/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
