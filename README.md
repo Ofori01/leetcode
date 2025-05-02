@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ofori01/leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Ofori01/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ofori01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ofori01/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ofori01/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Ofori01/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ofori01/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
