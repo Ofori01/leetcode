@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ofori01/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Ofori01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ofori01/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Ofori01/leetcode/tree/master/0838-design-linked-list) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ofori01/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ofori01/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Ofori01/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/Ofori01/leetcode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Ofori01/leetcode/tree/master/2470-removing-stars-from-a-string) |
