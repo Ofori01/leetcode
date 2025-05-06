@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ofori01/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ofori01/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ofori01/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Ofori01/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ofori01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ofori01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ofori01/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ofori01/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ofori01/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ofori01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Ofori01/leetcode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ofori01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
