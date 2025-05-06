@@ -5,18 +5,18 @@ class Solution:
         for i in tokens:
             if i == '-':
                 b,a= stack.pop(),stack.pop()
-                stack.append(int(a)-int(b))
+                stack.append(a-b)
             elif i == '+':
                 b,a= stack.pop(),stack.pop()
-                stack.append(int(a)+int(b))
+                stack.append(a+b)
             elif i == '*':
                 b,a= stack.pop(),stack.pop()
-                stack.append(int(a)*int(b))
+                stack.append(a*b)
             elif i == '/':
                 b,a= stack.pop(),stack.pop()
-                stack.append(int(a)/int(b))
+                stack.append(int(a/b))
             else:
-                stack.append(i)
+                stack.append(int(i))
             
         return int(stack[-1])
                 
