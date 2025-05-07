@@ -8,14 +8,15 @@ class Solution:
         if not head or not head.next:
             return head
         odd = head
-        evenhead = head.next
-        even = evenhead
+        even = head.next
+        evenhead = even
 
         while even and even.next:
             odd.next = odd.next.next
             even.next = even.next.next
-            odd=  odd.next
-            even =even.next
-
+            odd = odd.next
+            even = even.next
         odd.next = evenhead
         return head
+
+        
