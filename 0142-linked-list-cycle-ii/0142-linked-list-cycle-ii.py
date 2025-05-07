@@ -6,25 +6,22 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # using floyd's algo
+        # make fast and slow move. fast twice as fast. Then when fast and slow meets. move slow to head and move them one step a time. and return where they meet. Floyd cycle i think
 
-        # fast and slow meet.slow goes to head and all move in one steps until meeting again
+        fast = slow = head
 
-        fast = slow= head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-            if slow==fast:
+            if fast == slow:
                 break
-        # important for when no cycle exists
         else:
             return None
-        
-
+        # when cycle detected
         slow = head
-        while slow!=fast:
-            slow = slow.next
-            fast = fast.next
-        return slow
 
+        while fast != slow:
+            fast = fast.next
+            slow = slow.next
+        return slow
         
