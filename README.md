@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ofori01/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ofori01/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ofori01/leetcode/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Ofori01/leetcode/tree/master/0443-string-compression) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ofori01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ofori01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ofori01/leetcode/tree/master/0217-contains-duplicate) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ofori01/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ofori01/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ofori01/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ofori01/leetcode/tree/master/0217-contains-duplicate) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Divide and Conquer
 |  |
@@ -222,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ofori01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ofori01/leetcode/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
