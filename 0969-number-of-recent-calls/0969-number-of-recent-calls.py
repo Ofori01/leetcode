@@ -3,13 +3,13 @@ class RecentCounter:
 
     def __init__(self):
         self.q = deque()
-
+        
 
     def ping(self, t: int) -> int:
-        while self.q and (t - self.q[0]) > 3000:
-            self.q.popleft()
         self.q.append(t)
-        return len(self.q)
+        while t-self.q[0] > 3000:
+            self.q.popleft()
+        return len(self.q) 
         
 
 
