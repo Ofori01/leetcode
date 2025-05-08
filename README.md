@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Ofori01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Ofori01/leetcode/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/Ofori01/leetcode/tree/master/1720-crawler-log-folder) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/Ofori01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ofori01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ofori01/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ofori01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ofori01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Matrix
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ofori01/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Ofori01/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ofori01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ofori01/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2465-shifting-letters-ii](https://github.com/Ofori01/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ofori01/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ofori01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ofori01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ofori01/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
