@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/Ofori01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ofori01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Ofori01/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ofori01/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2465-shifting-letters-ii](https://github.com/Ofori01/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Ofori01/leetcode/tree/master/0874-backspace-string-compare) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Ofori01/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/Ofori01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Ofori01/leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ofori01/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ofori01/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/Ofori01/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Ofori01/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Ofori01/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
