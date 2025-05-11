@@ -1,4 +1,5 @@
 class MyQueue:
+    # 2nd try
 
     def __init__(self):
         self.stack1 = []
