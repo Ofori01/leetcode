@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ofori01/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ofori01/leetcode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Ofori01/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/Ofori01/leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/Ofori01/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## String
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/Ofori01/leetcode/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Divide and Conquer
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ofori01/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ofori01/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ofori01/leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Ofori01/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/Ofori01/leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
