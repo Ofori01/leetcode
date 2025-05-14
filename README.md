@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ofori01/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ofori01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ofori01/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ofori01/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Ofori01/leetcode/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ofori01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ofori01/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Ofori01/leetcode/tree/master/0456-132-pattern) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ofori01/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
