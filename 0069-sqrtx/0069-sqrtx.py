@@ -8,15 +8,18 @@ class Solution:
         now l would be on the minimum value possible and r would be on the value that would just be larger
         which means with 2 numbers where l would be minimum and r would be the just max. and the loop would never exit
         so just l  = mid + 1 and return l -1
-        '''
-        l,r = 0, x+1
 
-        while l < r :
+        when doing l-1 always increase upper bound. as bisect r,l uses right as len(nums)
+        '''
+        l,r = 0, x
+        if x== 1: return 1
+
+        while r-l> 1:
             mid = (l+r)//2
 
             if mid * mid <= x:
-                l = mid+1
+                l = mid
             else:
                 r = mid
-        return l - 1
+        return l
         
