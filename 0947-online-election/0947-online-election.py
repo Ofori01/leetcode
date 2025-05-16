@@ -5,7 +5,7 @@ class TopVotedCandidate:
         # create some form of list that at each time i list[i] tells who is leading
         self.times = times
         
-        leaders= defaultdict(int)
+        leaders= [0] * len(times)
         votes= defaultdict(int)
         cur_leader = float('-inf')
         max_votes = float('-inf')
@@ -19,7 +19,7 @@ class TopVotedCandidate:
                 cur_leader = persons[i]
                 max_votes = votes[persons[i]]
 
-            leaders[time] = cur_leader
+            leaders[i] = cur_leader
 
         self.leaders = leaders
         print(leaders)
@@ -28,7 +28,7 @@ class TopVotedCandidate:
     def q(self, t: int) -> int:
         leaders = self.leaders
         # binary search time either the exact time or the time just less than t in our leaders. So basically last false
-        times = list(leaders.keys())
+        times = self.times
         l, r = 0, len(times)
 
         while l < r :
@@ -40,7 +40,7 @@ class TopVotedCandidate:
             else:
                 r = mid
 
-        return leaders[times[l-1]]
+        return leaders[l-1]
 
 
 # Your TopVotedCandidate object will be instantiated and called as such:
