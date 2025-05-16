@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ofori01/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ofori01/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ofori01/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0947-online-election](https://github.com/Ofori01/leetcode/tree/master/0947-online-election) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ofori01/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ofori01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ofori01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0947-online-election](https://github.com/Ofori01/leetcode/tree/master/0947-online-election) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ofori01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ofori01/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Ofori01/leetcode/tree/master/0838-design-linked-list) |
+| [0947-online-election](https://github.com/Ofori01/leetcode/tree/master/0947-online-election) |
 | [0969-number-of-recent-calls](https://github.com/Ofori01/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Ofori01/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ofori01/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ofori01/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ofori01/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0947-online-election](https://github.com/Ofori01/leetcode/tree/master/0947-online-election) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ofori01/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ofori01/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ofori01/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
