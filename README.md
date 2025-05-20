@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Ofori01/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ofori01/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0947-online-election](https://github.com/Ofori01/leetcode/tree/master/0947-online-election) |
+| [0978-valid-mountain-array](https://github.com/Ofori01/leetcode/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ofori01/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
