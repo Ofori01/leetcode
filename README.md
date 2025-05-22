@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ofori01/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1020-longest-turbulent-subarray](https://github.com/Ofori01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ofori01/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Ofori01/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Ofori01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ofori01/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
