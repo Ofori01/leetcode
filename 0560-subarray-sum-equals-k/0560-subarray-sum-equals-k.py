@@ -1,8 +1,8 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        # sliding window won't work because of negetive numbers
+        # use hashmap with seen counts
 
-        # use prefix sum with dict to check counts of times k sum was seen
+        
 
         sums = {0:1}
 
