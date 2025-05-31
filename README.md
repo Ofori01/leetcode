@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ofori01/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ofori01/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ofori01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ofori01/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ofori01/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Ofori01/leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ofori01/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ofori01/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ofori01/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Ofori01/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Ofori01/leetcode/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ofori01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
