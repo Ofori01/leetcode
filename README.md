@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ofori01/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Ofori01/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ofori01/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ofori01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Ofori01/leetcode/tree/master/0326-power-of-three) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ofori01/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ofori01/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Ofori01/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ofori01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ofori01/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Ofori01/leetcode/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ofori01/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1791-richest-customer-wealth](https://github.com/Ofori01/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
