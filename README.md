@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ofori01/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ofori01/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Ofori01/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ofori01/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ofori01/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ofori01/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ofori01/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ofori01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ofori01/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Ofori01/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ofori01/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ofori01/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ofori01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Ofori01/leetcode/tree/master/0179-largest-number) |
