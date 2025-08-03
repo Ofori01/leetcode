@@ -1,6 +1,6 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # using last seen index would be cool
+        # using last seen index would be very cool
         l = 0
         res= 0
         check = {}
