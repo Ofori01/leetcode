@@ -1,5 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+
+        # just check end ones
         check = {
             '(' : ')',
             '[' : ']',
@@ -16,6 +18,6 @@ class Solution:
                 if check[stack.pop()]!= i:
                     return False
         return len(stack) == 0
-
+        #    }}}}} 
         
         
