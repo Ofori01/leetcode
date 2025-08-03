@@ -4,10 +4,11 @@ class Solution:
         # base case
         # 4 return 
         #  < 4 return false
+        # recursion
 
         if n == 1 :
             return True
         elif n < 1 :
             return False
-        
-        return self.isPowerOfFour(n / 4)
+        n = n /4
+        return self.isPowerOfFour(n)
