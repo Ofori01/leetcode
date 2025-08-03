@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ofori01/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Ofori01/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ofori01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ofori01/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ofori01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Ofori01/leetcode/tree/master/0179-largest-number) |
