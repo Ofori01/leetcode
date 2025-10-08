@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ofori01/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ofori01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/Ofori01/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ofori01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ofori01/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ofori01/leetcode/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/Ofori01/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/Ofori01/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ofori01/leetcode/tree/master/0943-sum-of-subarray-minimums) |
