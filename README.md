@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Ofori01/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ofori01/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2465-shifting-letters-ii](https://github.com/Ofori01/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ofori01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Ofori01/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ofori01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Ofori01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ofori01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Ofori01/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Matrix
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ofori01/leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Ofori01/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Ofori01/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ofori01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ofori01/leetcode/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ofori01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Ofori01/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ofori01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Enumeration
 |  |
 | ------- |
