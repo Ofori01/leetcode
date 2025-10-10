@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ofori01/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Ofori01/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ofori01/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ofori01/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ofori01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ofori01/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ofori01/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ofori01/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Ofori01/leetcode/tree/master/0071-simplify-path) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ofori01/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ofori01/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ofori01/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ofori01/leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Ofori01/leetcode/tree/master/0139-word-break) |
